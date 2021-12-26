@@ -5,6 +5,15 @@
 // Objects store key(properties) value pairs
 // Objects don't have index
 // In javascript key(properties) are in string by default
+// Booleans can be objects (if defined with the new keyword)
+// Numbers can be objects (if defined with the new keyword)
+// Strings can be objects (if defined with the new keyword)
+// Dates are always objects
+// Maths are always objects
+// Regular expressions are always objects
+// Arrays are always objects
+// Functions are always objects
+// Objects are always objects
 
 // how to create objects
 
