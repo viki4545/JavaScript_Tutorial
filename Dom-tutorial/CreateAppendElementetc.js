@@ -20,7 +20,8 @@
 // after
 
 
-const newTodoItem = document.createElement("li");
-const newTodoItemText = document.createTextNode("Learn Sanskrit");
-const todoList = document.querySelector(".todo-list");
-todoList.before(newTodoItem);
+// const newTodoItem = document.createElement("li");
+// newTodoItem.textContent =  "Learn Sanskrit";
+// const todoList = document.querySelector(".todo-list");
+// // todoList.before(newTodoItem);
+// todoList.after(newTodoItem);
