@@ -1,7 +1,7 @@
 // Array Destructuring
 const myArray = ["value1", "value2", "value3","value4"];
-// let myVar1 = myArray[0];
-// let myVar2 = myArray[1];
+let myVar1 = myArray[0];
+let myVar2 = myArray[1];
 // console.log(myVar1);
 // console.log(myVar2);
 
